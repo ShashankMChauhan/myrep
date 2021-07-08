@@ -6,6 +6,9 @@ Kheer
 pasta
 kadhai paneer
 
+pizza
+beans
+
 
 
 
